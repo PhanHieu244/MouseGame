@@ -134,6 +134,7 @@ MonoBehaviour:
   - {fileID: 8479290533179901706, guid: 7f7d688cbe8281e44b0b4648e07db12c, type: 3}
   - {fileID: 1368214511937833759, guid: 2a5021157c6446d47940030232e6080d, type: 3}
   - {fileID: 1368214511937833759, guid: 0ea649dbe9c01dc41b66eaeb3daae65c, type: 3}
+  - {fileID: 1368214511937833759, guid: 8aa847ca57a5ba440a72de32122d10fa, type: 3}
   - {fileID: 1368214511937833759, guid: 03bc11664cdc73d40a40318cbe53ac55, type: 3}
   - {fileID: 4757096048438829607, guid: a8ad41e853ab2294aa1d714cc7650b02, type: 3}
   - {fileID: -1541598557563024399, guid: 48dc91198c9133641b5b25e092649677, type: 3}
@@ -229,5 +230,5 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: -2208.399, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}

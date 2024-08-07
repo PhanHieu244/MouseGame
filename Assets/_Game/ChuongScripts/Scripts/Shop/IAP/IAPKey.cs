@@ -8,6 +8,11 @@ namespace ChuongCustom
         public const string C_PACK5 = "mua_vang_goi_5";
         public const string C_PACK6 = "mua_vang_goi_6";
         
+        public const string C_ADD1 = "add1";
+        public const string C_ADD3  = "add3";
+        public const string C_ADD5  = "add5";
+        public const string C_ADD10  = "add10";
+        
         public const string S_SUBPACK1 = "sub_goi_1";
         public const string S_SUBPACK2 = "sub_goi_2";
         public const string S_SUBPACK3 = "sub_goi_3";
