@@ -28,8 +28,14 @@ namespace ChuongCustom
 
         protected virtual void OnClick()
         {
+            Click();
             IAPManager.OnPurchaseSuccess = OnPurchaseSuccess;
             IAPManager.Instance.BuyProductID(productID);
+        }
+
+        protected virtual void Click()
+        {
+            
         }
         
         protected abstract void Setup();

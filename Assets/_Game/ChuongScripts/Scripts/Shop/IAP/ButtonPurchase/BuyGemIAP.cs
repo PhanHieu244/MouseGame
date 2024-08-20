@@ -10,6 +10,11 @@ namespace ChuongCustom
 
         protected override void OnPurchaseSuccess()
         {
+            
+        }
+
+        protected override void Click()
+        {
             ToastManager.Instance.ShowMessageToast("Buy Success!!");
             Data.Player.Gem += Value;
         }
